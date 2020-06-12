@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: rgb(189, 151, 29);
+  background-color: rgb(29, 85, 189);
 }
 
 .dev-icons {
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: rgb(189, 151, 29);
+  color: rgb(189, 106, 29);
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -90,7 +90,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: rgb(29, 85, 189)6e;
 }
 
 @media (min-width: 992px) {
